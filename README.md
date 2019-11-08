@@ -1,2 +1,2 @@
-# StatuteRecommend
-Statute Recommendation Based on Word Embedding
+# Statute Recommendation Based on Word Embedding
+Graduation Project in Nanjing University
